@@ -25,7 +25,7 @@ The goal of this project is to extract, analyze, and visualize various metrics p
    ```bash
    pip install -r requirements.txt
    ```
-   *(If there is no `requirements.txt`, manually install essential packages such as pandas, numpy, matplotlib, etc.)*
+   
 
 3. **Run the notebooks:**
    ```bash
