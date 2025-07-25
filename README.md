@@ -1,4 +1,4 @@
-# UN-Countries-Metrics-Analysis
+# UN-Countries-Metrics-Analysis.
 
 This repository, **UN-Countries-Metrics-Analysis**, is focused on analyzing metrics related to United Nations member countries. The project is written primarily in Jupyter Notebook, making it ideal for interactive data analysis, visualization, and exploration.
 
